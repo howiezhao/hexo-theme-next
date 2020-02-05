@@ -193,9 +193,9 @@ social:
   #YouTube: https://youtube.com/yourname || youtube
   #Instagram: https://instagram.com/yourname || instagram
   #Skype: skype:yourname?call|chat || skype
-  #RSS: /atom.xml || rss
   Zhihu: https://www.zhihu.com/people/howiezhao || zhihu
   bilibili: https://space.bilibili.com/23433050 || bilibili
+  RSS: /atom.xml || rss
 
 social_icons:
   enable: true
